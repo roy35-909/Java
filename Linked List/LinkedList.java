@@ -1,3 +1,10 @@
+/*  
+    Simanta Kumar Roy
+    roy35-909@diu.edu.bd
+    Daffodil International University
+
+*/
+
 public class LinkedList{
 
     public Node head;
