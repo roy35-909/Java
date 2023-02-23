@@ -128,7 +128,6 @@ public class LinkedList{
 
 
 //The Node Class
-
 class Node{
     public int data;
     public Node next;
